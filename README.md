@@ -1,1 +1,1 @@
-python bot.py
+run this command python streamixph.py
